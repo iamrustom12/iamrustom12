@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=34&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=850&height=70&lines=Hi+👋,+I'm+Mohammad+Rustam;Software+Engineer+Intern+%40+Sigmoid;Full+Stack+Developer;Building+Scalable+Applications;AI+%26+Backend+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Mohammad+Rustam;Software+Engineer+Intern;Full+Stack+Developer;AI+%26+Backend+Enthusiast;Building+Scalable+Applications" />
 
 </div>
 
