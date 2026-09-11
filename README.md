@@ -15,7 +15,7 @@
 
 # Mohammad Rustam
 
-### Software Engineer Intern @ Sigmoid • Full Stack Developer • Building Scalable Applications • AI & Backend Enthusiast
+### Software Engineer • Full Stack Developer • Building Scalable Applications • AI & Backend Enthusiast
 
 </div>
 
